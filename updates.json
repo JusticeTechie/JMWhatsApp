@@ -1,12 +1,9 @@
 {
-  "version_code": 2147483647,
-  "version_name": "2.25.36.74",
-  "update_size": "97mb",
-  "release_date": "January 31, 2026",
-  "download_link": "https://t.me/jmwhatsapp",
-  "whats_new": [
-    "Improved Performance",
-    "Added Group tag all",
-    "Fixed bugs"
-  ]
+  "Title": "Update Available⚡️",
+  "versionCode": "2147483647",
+  "versionName": "2.25.36.74",
+  "updateSize": "97mb",
+  "releaseDate": "January 31, 2026",
+  "Msg": "🎉 What's New:\n• Added group tag all\nApp optimization\nFix bug",
+  "downloadLink": "https://t.me/jmwhatsapp"
 }
